@@ -1,2 +1,2 @@
-# My-First_Repo
+# My-First-Repo
 Practice For Learning Git
